@@ -1,0 +1,15 @@
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\bin\Debug\net10.0\trabalho_poo.exe
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\bin\Debug\net10.0\trabalho_poo.deps.json
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\bin\Debug\net10.0\trabalho_poo.runtimeconfig.json
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\bin\Debug\net10.0\trabalho_poo.dll
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\bin\Debug\net10.0\trabalho_poo.pdb
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.AssemblyInfoInputs.cache
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.AssemblyInfo.cs
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.csproj.CoreCompileInputs.cache
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.sourcelink.json
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.dll
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\refint\trabalho_poo.dll
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.pdb
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\trabalho_poo.genruntimeconfig.cache
+C:\Users\welinton61309886\Documents\trabalho_poo\trabalho_poo\obj\Debug\net10.0\ref\trabalho_poo.dll
