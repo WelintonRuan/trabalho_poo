@@ -1,9 +1,9 @@
 public class Aluno
 {
-    private string nome;
+    private string? nome;
     private double nota;
 
-    public string Nome
+    public string? Nome
     {
         get { return nome; }
         set 
@@ -25,14 +25,13 @@ public class Aluno
         }
     }
 
-    // Construtor
+    
     public Aluno(string nome, double nota)
     {
         Nome = nome;
         Nota = nota;
     }
 
-    // Método ToString
     public override string ToString()
     {
         string status = nota >= 6.0 ? "Aprovado" : "Reprovado";
