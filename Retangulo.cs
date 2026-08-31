@@ -1,89 +1,61 @@
-using System.Formats.Asn1;
+
 
 public class Retangulo
 {
+    
     private float basee;
-
     private float altura;
 
+    
     public float Base
     {
-        get {return basee;}
-
+        get { return basee; }
         set
         {
-            if (value <=0)
+            if (value <= 0)
             {
-                Console.WriteLine("Valor da base não pode ser negativo e nem 0");
-
+                Console.WriteLine("O valor da base deve ser maior que zero");
             }
             else
             {
                 basee = value;
             }
-        
         }
     }
 
     public float Altura
     {
-        get {return altura;}
-
+        get { return altura; }
         set
         {
-            if (value <=0)
+            if (value <= 0)
             {
-                Console.WriteLine("Valor da altura não pode ser negativo e nem 0");
+                Console.WriteLine("O valor da altura deve ser maior que zero");
             }
             else
             {
                 altura = value;
-            }   
+            }
         }
     }
 
-    public float CalcularArea()
+    
+    public Retangulo(float basee, float altura)
     {
-        float Area = basee * altura;
-        return Area;
+        
+        Base = basee;
+        Altura = altura;
     }
 
+    
+    public float CalcularArea()
+    {
+        return basee * altura;
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    public override string ToString()
+    {
+        return $"Retângulo [Base: {Base} | Altura: {Altura} | Área: {CalcularArea()}]";
+    }
 }
